@@ -8,7 +8,7 @@ h1 {
     font-family: Verdana, sans-serif;  
 }
 #tit1 {
-    border: 3px solid black;
+    border: 1px solid black;
     background-color: rgb(250, 67, 53);
     width: 120px;
     height: 35px;
@@ -19,7 +19,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #tit2 {
-    border: 3px solid black;
+    border: 1px solid black;
     background-color: rgb(77, 49, 231);
     width: 120px;
     height: 35px;
@@ -31,7 +31,7 @@ h1 {
 
 }
 #tit3 {
-    border: 3px solid black;
+    border: 1px solid black;
     background-color: rgb(154, 11, 173);
     width: 120px;
     height: 35px;
@@ -44,7 +44,7 @@ h1 {
 }
 
 p {
-        border: 3px solid black;
+        border: 1px solid black;
         background-color: #6cf383;
         width: 90%;
         height: 150px;
